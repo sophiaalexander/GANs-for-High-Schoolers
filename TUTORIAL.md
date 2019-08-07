@@ -1,6 +1,6 @@
 # GANDissect Tutorial Setup
 
-This tutorial branch of GAN Dissect can be cloned by copying this line into your command line
+This tutorial branch of GAN Dissect can be cloned by copying this into your command line:
 
 ```
 git clone --branch tutorial https://github.com/CSAILVision/gandissect.git
@@ -10,7 +10,7 @@ git clone --branch tutorial https://github.com/CSAILVision/gandissect.git
 
 To install everything needed from this repo, have `conda` available
 (I happen to use conda 4.6.8, but it also works fine on conda 1.x).
-Then go to the main folder `gandissect` and run the setup scripts in your command line:
+Then go to the main folder `gandissect` and run the setup scripts in your command:
 
 ```
 cd gandissect
